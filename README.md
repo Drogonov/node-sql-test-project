@@ -1,15 +1,16 @@
 # node-sql-test-project
 
-- run npm install
-
-It will install all needed modules 
-
-open MYSQLWorkbench use link to guide
+open MYSQLWorkbench use link to guide if you havent install MySQL yet
 https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/example-foreign-keys.html
 
-after it launch server
+# setup project
 
-- npm start dev
+- run `npm install`
 
-Preset for testing in Postman in repo check below
+It will install all needed modules after it launch server
+
+- run `npm start dev`
+
+# preset for testing in Postamn
+
 SQL test App.postman_collection
