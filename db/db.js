@@ -43,5 +43,5 @@ async function initPostTable(sequelize, db) {
     db.Post = require('./models').modelBuilder(sequelize, 'Post', attributes)
     db.Post.belongsTo(db.User, {
         foreignKey: 'userId'
-      })
+    })
 }
