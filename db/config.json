@@ -3,7 +3,7 @@
         "host": "localhost",
         "port": 3306,
         "user": "root",
-        "password": "Pidar",
+        "password": "Marzocchi55R_",
         "database": "node_sql_test_project"
     },
     "secret": "SecretJWT"
